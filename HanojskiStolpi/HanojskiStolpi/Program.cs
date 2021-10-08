@@ -23,6 +23,7 @@ namespace HanojskiStolpi
             premakni(n - 1, zacetni, pomozni, koncni); //iz a na b, pomagaj si s c
             Console.WriteLine("Premakni iz " + zacetni + " na " + koncni);
             premakni(n - 1, pomozni, koncni, zacetni);
+            
         }
     }
 }

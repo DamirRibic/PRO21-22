@@ -1,0 +1,7 @@
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\obj\Debug\RekurzijaVaja.csproj.AssemblyReference.cache
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\obj\Debug\RekurzijaVaja.csproj.CoreCompileInputs.cache
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\bin\Debug\RekurzijaVaja.exe.config
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\bin\Debug\RekurzijaVaja.exe
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\bin\Debug\RekurzijaVaja.pdb
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\obj\Debug\RekurzijaVaja.exe
+D:\PRO21-22\RekurzijaVaja\RekurzijaVaja\obj\Debug\RekurzijaVaja.pdb

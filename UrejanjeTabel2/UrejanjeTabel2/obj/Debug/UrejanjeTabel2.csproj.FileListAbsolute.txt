@@ -1,0 +1,7 @@
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\bin\Debug\UrejanjeTabel2.exe.config
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\bin\Debug\UrejanjeTabel2.exe
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\bin\Debug\UrejanjeTabel2.pdb
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\obj\Debug\UrejanjeTabel2.csproj.AssemblyReference.cache
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\obj\Debug\UrejanjeTabel2.csproj.CoreCompileInputs.cache
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\obj\Debug\UrejanjeTabel2.exe
+D:\PRO21-22\UrejanjeTabel2\UrejanjeTabel2\obj\Debug\UrejanjeTabel2.pdb

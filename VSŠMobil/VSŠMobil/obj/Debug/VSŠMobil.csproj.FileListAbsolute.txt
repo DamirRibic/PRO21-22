@@ -1,0 +1,7 @@
+D:\PRO21-22\VSŠMobil\VSŠMobil\bin\Debug\VSŠMobil.exe.config
+D:\PRO21-22\VSŠMobil\VSŠMobil\bin\Debug\VSŠMobil.exe
+D:\PRO21-22\VSŠMobil\VSŠMobil\bin\Debug\VSŠMobil.pdb
+D:\PRO21-22\VSŠMobil\VSŠMobil\obj\Debug\VSŠMobil.csproj.AssemblyReference.cache
+D:\PRO21-22\VSŠMobil\VSŠMobil\obj\Debug\VSŠMobil.csproj.CoreCompileInputs.cache
+D:\PRO21-22\VSŠMobil\VSŠMobil\obj\Debug\VSŠMobil.exe
+D:\PRO21-22\VSŠMobil\VSŠMobil\obj\Debug\VSŠMobil.pdb

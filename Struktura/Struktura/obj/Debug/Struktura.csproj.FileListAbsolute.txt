@@ -1,0 +1,7 @@
+D:\PRO21-22\Struktura\Struktura\bin\Debug\Struktura.exe.config
+D:\PRO21-22\Struktura\Struktura\bin\Debug\Struktura.exe
+D:\PRO21-22\Struktura\Struktura\bin\Debug\Struktura.pdb
+D:\PRO21-22\Struktura\Struktura\obj\Debug\Struktura.csproj.AssemblyReference.cache
+D:\PRO21-22\Struktura\Struktura\obj\Debug\Struktura.csproj.CoreCompileInputs.cache
+D:\PRO21-22\Struktura\Struktura\obj\Debug\Struktura.exe
+D:\PRO21-22\Struktura\Struktura\obj\Debug\Struktura.pdb

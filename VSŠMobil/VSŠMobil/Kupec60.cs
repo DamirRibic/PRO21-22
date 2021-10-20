@@ -9,7 +9,7 @@ namespace VSŠMobil
     class Kupec60:Kupec
     {
         private int visjaTarifaPorabljeno;//koliko od 60min je ze porabljenih
-        public new void beleziKlic(int minute, int tip)
+        public override void beleziKlic(int minute, int tip)
         {
             switch (tip)
             {

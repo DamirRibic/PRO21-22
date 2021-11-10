@@ -61,6 +61,11 @@ namespace GoFish
             else
                 UpdateForm();
         }
+
+        private void lstVRokah_DoubleClick(object sender, EventArgs e)
+        {
+
+        }
     }
 
 }

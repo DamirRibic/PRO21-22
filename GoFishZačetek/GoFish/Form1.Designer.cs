@@ -116,6 +116,7 @@
             this.lstVRokah.Name = "lstVRokah";
             this.lstVRokah.Size = new System.Drawing.Size(150, 420);
             this.lstVRokah.TabIndex = 8;
+            this.lstVRokah.DoubleClick += new System.EventHandler(this.lstVRokah_DoubleClick);
             // 
             // buttonAsk
             // 

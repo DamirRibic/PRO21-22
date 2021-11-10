@@ -1,0 +1,7 @@
+D:\PRO21-22\Računanje2\Računanje2\bin\Debug\Računanje2.exe.config
+D:\PRO21-22\Računanje2\Računanje2\bin\Debug\Računanje2.exe
+D:\PRO21-22\Računanje2\Računanje2\bin\Debug\Računanje2.pdb
+D:\PRO21-22\Računanje2\Računanje2\obj\Debug\Računanje2.csproj.AssemblyReference.cache
+D:\PRO21-22\Računanje2\Računanje2\obj\Debug\Računanje2.csproj.CoreCompileInputs.cache
+D:\PRO21-22\Računanje2\Računanje2\obj\Debug\Računanje2.exe
+D:\PRO21-22\Računanje2\Računanje2\obj\Debug\Računanje2.pdb

@@ -11,6 +11,31 @@ namespace Struktura
         struct vektor
         {
             public double x, y, z;
+            public double this[int i]
+            {
+                get {switch (i) {
+                        case 0:
+                            return x;
+                        case 1:
+                            return y;
+                        case 2:
+                            return z;
+                        default:
+                            throw new IndexOutOfRangeException("Napačen indeks");
+                    }
+                    }
+                set { switch (i) {
+                        case 0:
+                            x = value; break;
+                        case 1:
+                            y = value; break;
+                        case 2:
+                            z = value; break;
+                        default:
+                            throw new IndexOutOfRangeException("Napačen indeks");
+                    }
+                }
+            }
             public override string ToString()
             {
                 return "(" + x + ", " + y + ", " + z + ")";
@@ -71,6 +96,12 @@ namespace Struktura
             Console.WriteLine((7*v1).ToString());
             Console.WriteLine((v1*v2).ToString());
             Console.WriteLine("V1==V2? "+(v1==v2));
+
+            for (int k = 0; k < 3; k++)
+            {
+                v1[k] = 2 * k;
+            }
+            Console.WriteLine(v1.ToString());
             Console.ReadLine();
 
         }
